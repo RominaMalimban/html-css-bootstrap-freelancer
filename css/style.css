@@ -1,22 +1,26 @@
-
-.container_header{
+.nav_bar{
     height: 90px;
-    background-color: #2c3e50;  
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    background-color: #2c3e50; 
 }
 
-.block{
+.testo_nav{
     /* debug */
-    height: 30px;
-    border: 1px solid #000;
+    border: 1px solid #fff;
+    height: 70px;
 }
 
-.sub_header{
+.green{
     background-color: #1abc9c;
     /* debug */
     min-height: 590px;
+}
+
+.logo{
+    /* debug */
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    border: 1px solid #000;
 }
 
 .testo_subheader{
@@ -31,19 +35,13 @@
     min-height: 300px;
 }
 
-.section_green{
-    background-color: #1abc9c;
-    /* debug */
-    min-height: 500px;
-}
-
 .paragraph{
     /* debug */
     border: 1px solid #000;
     min-height: 250px;
 }
 
-.footer{
+.top_footer{
     background-color: #3a546d;
     /* debug */
     min-height: 200px;
@@ -58,5 +56,9 @@
 .sub_footer{
     background-color: #2c3e50;
     /* debug */
+    height: 70px;
+}
+
+.last{
     height: 70px;
 }
