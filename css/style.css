@@ -6,8 +6,6 @@
     align-items: center;
 }
 
-
-
 .block{
     /* debug */
     height: 30px;
@@ -22,8 +20,14 @@
 
 .logo{
     /* debug */
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
     border: 1px solid #000;
     border-radius: 50%;
+}
+
+.testo_subheader{
+    width: 300px;
+    height: 70px;
+    border: 1px solid #000;
 }
