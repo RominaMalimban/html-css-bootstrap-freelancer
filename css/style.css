@@ -29,3 +29,16 @@
     border: 1px solid #000;
     min-height: 300px;
 }
+
+.section_green{
+    background-color: #1abc9c;
+    /* debug */
+    min-height: 500px;
+}
+
+.paragraph{
+    /* debug */
+    border: 1px solid #000;
+    min-height: 250px;
+}
+
