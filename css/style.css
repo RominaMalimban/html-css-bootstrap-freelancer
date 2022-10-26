@@ -11,6 +11,14 @@ header{
     margin-top: 40px;
 }
 
+.navbar-toggler{
+    border-color: #fff;
+}
+
+.navbar-toggler-icon{
+    filter: invert(43%) sepia(3%) saturate(208%) hue-rotate(169deg) brightness(94%) contrast(85%);
+}
+
 .ms_bg_green{
     background-color: #1abc9c;
 }
@@ -42,21 +50,23 @@ header{
 .top_footer{
     background-color: #3a546d;
     /* debug */
-    min-height: 200px;
+    /* min-height: 200px; */
 }
 
-.prova{
-    /* debug */
-    border: 1px solid #000;
-    min-height: 80px;
+.ms_font_green{
+    color: #1abc9c;
+}
+
+.ms_circle{
+    width: 50px;
 }
 
 .sub_footer{
     background-color: #2c3e50;
     /* debug */
-    height: 70px;
+   
 }
 
 .last{
-    height: 70px;
+    /* height: 70px; */
 }
