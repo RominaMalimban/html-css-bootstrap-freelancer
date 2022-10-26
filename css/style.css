@@ -10,6 +10,10 @@ header{
     margin-top: 40px;
 }
 
+.ms_bg_green{
+    background-color: #1abc9c;
+}
+
 .ms_star{
     display: flex;
     align-items: center;
@@ -18,17 +22,20 @@ header{
 .ms_line{
     width: 100px;
     height: 3px;
-    color: #fff;
-    background-color: #fff;
     margin: 0 10px;
 }
 
-
-.green{
-    background-color: #1abc9c;
-    /* debug */
-    /* min-height: 590px; */
+.ms_white{
+    color: #fff;
+    background-color: #fff;
 }
+
+.ms_black{
+    color: #000;
+    background-color: #000;
+}
+
+
 
 /* .testo_subheader{
     width: 300px;
